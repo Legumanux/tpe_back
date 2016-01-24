@@ -1,0 +1,1 @@
+[{"stock": null, "nom": "Poulet basquaise", "isformule": false, "prix": 15, "categorie": "plat"}, {"stock": null, "nom": "Steak hach\u00e9", "isformule": false, "prix": 7, "categorie": "plat"}]
